@@ -1,0 +1,6 @@
+base = F:/Data/video/tennis
+train = F:/Data/video/tennis/trainlist_2.txt
+valid = F:/Data/video/tennis/testlist_2.txt
+names = data/tennis.names
+backup = backup
+gpus  = 0
